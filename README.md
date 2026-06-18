@@ -6,6 +6,11 @@ However, it is not guarantted that i will master DSA after this challenge but i 
 I will add a report of what i gain and what i learn every day.
 It is not to impress anyone but to gain confidence and self respect.
 
+CURRENT LEVEL:- 
+Arrays LinkedList Stack Queue HashMap String Binary_Operators are done .
+Remaining:- 
+Binary_Search Heap Tree Graphs Recursion_and_Backtracking(revision) DP.
+
 If you are here reading this.....thanx for your time.
 GBU❤️
 TNX❤️
