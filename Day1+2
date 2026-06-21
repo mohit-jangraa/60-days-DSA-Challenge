@@ -1,0 +1,23 @@
+1️⃣ LeetCode 153 — Find Minimum in Rotated Sorted Array
+Today, I solved an interesting Binary Search problem where a sorted array is rotated, and the goal is to find the minimum element in O(log n) time.
+🔹 Used Binary Search instead of linear scanning
+ 🔹 Learned how to identify the sorted and rotated portions of an array
+ 🔹 Improved understanding of search space elimination
+ 🔹 Achieved 0 ms runtime (Beats 100%) 🎯
+The key insight was comparing the middle element with the boundary element to determine which half contains the minimum value.
+
+2️⃣ LeetCode 852 — Peak Index in a Mountain Array
+Recently, a challenge involved finding the peak element in a mountain array using Binary Search.
+🔹 Identified increasing and decreasing regions efficiently
+ 🔹 Applied Binary Search on a non-sorted pattern
+ 🔹 Strengthened understanding of peak-finding algorithms
+ 🔹 Achieved 0 ms runtime (Beats 100%) 🎯
+One of the biggest lessons from this problem was realizing that Binary Search can be used far beyond searching in sorted arrays.
+
+3️⃣ LeetCode 34 — Find First and Last Position of Element in Sorted Array
+Recently, I tackled a classic Binary Search problem that requires finding the starting and ending positions of a target element in a sorted array.
+🔹 Applied Binary Search to locate boundaries efficiently
+ 🔹 Learned how duplicate elements affect search strategies
+ 🔹 Improved understanding of range-based searching
+ 🔹 Achieved 0 ms runtime (Beats 100%) 🎯
+This problem reinforced an important lesson: Binary Search is not just about finding an element—it's also about finding its boundaries efficiently.
